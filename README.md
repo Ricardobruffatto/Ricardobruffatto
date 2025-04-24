@@ -1,3 +1,7 @@
+<p align="left">🔥 Desenvolvedor Júnior apaixonado por tecnologia.<br>📚 Atualmente estou aprendendo JAVASCRIPT.<br>⚡ Tecnologias: HTML, CSS, JavaScript.</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ricardobruffatto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricardobruffatto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false" height="150" alt="languages graph"  />
@@ -39,6 +43,14 @@
 
 <div align="center">
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ2eWVzcm5jOHFsczY0aGszZ3J4Z2hhaThseXNoeWRxc3B4ZWh4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Ricardobruffatto/count.svg?"  />
 </div>
 
 ###
