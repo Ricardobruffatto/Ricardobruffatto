@@ -47,6 +47,10 @@
 
 ###
 
+<h2 align="center">Views</h2>
+
+###
+
 <br clear="both">
 
 <div align="center">
