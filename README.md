@@ -1,4 +1,4 @@
-<p align="left">🔥 Desenvolvedor Júnior apaixonado por tecnologia.<br>📚 Atualmente estou aprendendo JAVASCRIPT e em breve React.<br>⚡ Tecnologias: HTML, CSS, JavaScript.</p>
+<p align="left">🔥 Desenvolvedor Júnior apaixonado por tecnologia.<br>📚 Atualmente estou aprendendo JAVASCRIPT.<br>⚡ Tecnologias: HTML, CSS, JavaScript.</p>
 
 ###
 
@@ -47,14 +47,13 @@
 
 ###
 
+<h2 align="center">Views</h2>
 
-
-
+###
 
 <br clear="both">
 
 <div align="center">
-  <h2 align="center">Views</h2>
   <img src="https://profile-counter.glitch.me/Ricardobruffatto/count.svg?"  />
 </div>
 
