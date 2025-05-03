@@ -8,17 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardobruffatto&layout=compact&langs_count=16&theme=radical"/>
 <div>
 
- <div>
-  <a href="https://github.com/Ricardobruffato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardobruffatto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardobruffatto&layout=compact&langs_count=16&theme=radical"/>
-<div>
-
-
-
-
-
-
 ###
 
 <h2 align="left">Techs</h2>
