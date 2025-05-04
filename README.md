@@ -1,4 +1,4 @@
-<p align="left">🔥 Desenvolvedor Júnior apaixonado por tecnologia.<br>📚 Atualmente estou aprendendo JAVASCRIPT e React.<br>⚡ Tecnologias: HTML, CSS, JavaScript.</p>
+<p align="left">🔥 Desenvolvedor Júnior apaixonado por tecnologia.<br>📚 Atualmente estou aprendendo JAVASCRIPT e React.<br>⚡ Tecnologias: HTML, CSS, JavaScript e React.</p>
 
 ###
 
